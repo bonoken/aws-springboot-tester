@@ -92,7 +92,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <executable>true</executable>
-                    <jvmArguments>-Dfile.encoding=UTF8 -Dspring.profiles.active="production"</jvmArguments>
+                    <jvmArguments>-Dfile.encoding=UTF8 -Dspring.profiles.active="dev"</jvmArguments>
                 </configuration>
                 <dependencies>
                     <dependency>
