@@ -1,5 +1,5 @@
 # aws-springboot-tester
-Demo Spring Boot Project for AWS Resource checking by kei (bonoken@gmail.com)
+Demo Spring Boot Project for AWS Resource checking by ken (bonoken@gmail.com)
 
 
 ## project source download
